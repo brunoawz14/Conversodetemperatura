@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Main {
     public static void main(String []args) {
-        //coversor de temperatura ao som de coldplay
+        
         JOptionPane.showMessageDialog(null, "Esse é um Sistema para fazer a conversão de temperaturas.");
 
         String input1 = JOptionPane.showInputDialog("Escolha a temperatura que você quer converter (C°, F°e K°): ");
